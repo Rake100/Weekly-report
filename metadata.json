@@ -1,0 +1,6 @@
+{
+  "name": "Academic Progress Report Generator",
+  "description": "Executive weekly academic progress reporting suite and gradebook manager for ECON 611 and ACCT 210 with pixel-perfect PDF and Word exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
